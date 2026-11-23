@@ -1,0 +1,252 @@
+
+***** US7892537B1.bio *****
+              precision    recall  f1-score   support
+
+           B       0.86      1.00      0.92         6
+           I       1.00      1.00      1.00       248
+
+   micro avg       1.00      1.00      1.00       254
+   macro avg       0.93      1.00      0.96       254
+weighted avg       1.00      1.00      1.00       254
+
+
+***** US7943822B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.95      0.92      0.93       201
+           I       0.99      0.97      0.98      2674
+
+   micro avg       0.99      0.97      0.98      2875
+   macro avg       0.97      0.94      0.96      2875
+weighted avg       0.99      0.97      0.98      2875
+
+
+***** US7972611B2.bio *****
+              precision    recall  f1-score   support
+
+           B       1.00      1.00      1.00         8
+           I       0.99      1.00      1.00       109
+
+   micro avg       0.99      1.00      1.00       117
+   macro avg       1.00      1.00      1.00       117
+weighted avg       0.99      1.00      1.00       117
+
+
+***** US8048987B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.71      0.71      0.71         7
+           I       0.97      0.99      0.98       139
+
+   micro avg       0.96      0.98      0.97       146
+   macro avg       0.84      0.85      0.85       146
+weighted avg       0.96      0.98      0.97       146
+
+
+***** US8058419B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.94      0.99      0.96        76
+           I       0.99      0.99      0.99       989
+
+   micro avg       0.99      0.99      0.99      1065
+   macro avg       0.96      0.99      0.97      1065
+weighted avg       0.99      0.99      0.99      1065
+
+
+***** US8088361B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.79      0.73      0.76        15
+           I       0.96      0.89      0.93       237
+
+   micro avg       0.95      0.88      0.92       252
+   macro avg       0.87      0.81      0.84       252
+weighted avg       0.95      0.88      0.92       252
+
+
+***** US8092995B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.75      1.00      0.86         3
+           I       0.98      0.84      0.91        51
+
+   micro avg       0.96      0.85      0.90        54
+   macro avg       0.86      0.92      0.88        54
+weighted avg       0.96      0.85      0.90        54
+
+
+***** US8106171B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.90      0.90      0.90       124
+           I       0.98      0.99      0.99      2022
+
+   micro avg       0.98      0.98      0.98      2146
+   macro avg       0.94      0.95      0.94      2146
+weighted avg       0.98      0.98      0.98      2146
+
+
+***** US8114637B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.95      1.00      0.98        42
+           I       0.89      1.00      0.94       228
+
+   micro avg       0.90      1.00      0.95       270
+   macro avg       0.92      1.00      0.96       270
+weighted avg       0.90      1.00      0.95       270
+
+
+***** US8124829B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.91      0.95      0.93        22
+           I       0.97      0.97      0.97       278
+
+   micro avg       0.96      0.97      0.97       300
+   macro avg       0.94      0.96      0.95       300
+weighted avg       0.96      0.97      0.97       300
+
+
+***** US8133710B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.95      0.90      0.93       153
+           I       0.99      0.98      0.98      1930
+
+   micro avg       0.98      0.97      0.98      2083
+   macro avg       0.97      0.94      0.95      2083
+weighted avg       0.98      0.97      0.98      2083
+
+
+***** US8148089B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.97      0.98      0.97       209
+           I       0.99      0.99      0.99      2875
+
+   micro avg       0.99      0.99      0.99      3084
+   macro avg       0.98      0.98      0.98      3084
+weighted avg       0.99      0.99      0.99      3084
+
+
+***** US8158348B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.50      1.00      0.67         1
+           I       0.93      1.00      0.96        13
+
+   micro avg       0.88      1.00      0.93        14
+   macro avg       0.71      1.00      0.81        14
+weighted avg       0.90      1.00      0.94        14
+
+
+***** US8158424B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.92      1.00      0.96        23
+           I       0.98      1.00      0.99       327
+
+   micro avg       0.97      1.00      0.99       350
+   macro avg       0.95      1.00      0.97       350
+weighted avg       0.98      1.00      0.99       350
+
+
+***** US8168418B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.91      0.95      0.93       358
+           I       0.98      0.95      0.96      4800
+
+   micro avg       0.97      0.95      0.96      5158
+   macro avg       0.94      0.95      0.95      5158
+weighted avg       0.97      0.95      0.96      5158
+
+
+***** US8227661B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.93      0.96      0.95       297
+           I       0.98      0.98      0.98      3877
+
+   micro avg       0.98      0.98      0.98      4174
+   macro avg       0.96      0.97      0.96      4174
+weighted avg       0.98      0.98      0.98      4174
+
+
+***** US8258289B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.94      0.95      0.95       153
+           I       0.98      0.99      0.98      2430
+
+   micro avg       0.98      0.99      0.98      2583
+   macro avg       0.96      0.97      0.97      2583
+weighted avg       0.98      0.99      0.98      2583
+
+
+***** US8273354B2.bio *****
+              precision    recall  f1-score   support
+
+           B       1.00      0.95      0.98        22
+           I       1.00      0.98      0.99       277
+
+   micro avg       1.00      0.98      0.99       299
+   macro avg       1.00      0.97      0.98       299
+weighted avg       1.00      0.98      0.99       299
+
+
+***** US8293506B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.84      0.86      0.85        57
+           I       0.99      0.97      0.98       969
+
+   micro avg       0.98      0.97      0.97      1026
+   macro avg       0.92      0.92      0.92      1026
+weighted avg       0.98      0.97      0.97      1026
+
+
+***** US8299100B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.74      0.93      0.82        15
+           I       1.00      0.89      0.94       794
+
+   micro avg       0.99      0.89      0.94       809
+   macro avg       0.87      0.91      0.88       809
+weighted avg       0.99      0.89      0.94       809
+
+
+***** US8338131B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.95      0.94      0.95       268
+           I       0.99      0.92      0.96      3509
+
+   micro avg       0.99      0.92      0.96      3777
+   macro avg       0.97      0.93      0.95      3777
+weighted avg       0.99      0.92      0.96      3777
+
+
+***** US8409856B2.bio *****
+              precision    recall  f1-score   support
+
+           B       0.97      0.98      0.98       258
+           I       0.99      0.99      0.99      3583
+
+   micro avg       0.99      0.99      0.99      3841
+   macro avg       0.98      0.99      0.99      3841
+weighted avg       0.99      0.99      0.99      3841
+
+
+***** Eval results total *****
+              precision    recall  f1-score   support
+
+           B       0.93      0.95      0.94      2318
+           I       0.98      0.97      0.98     32359
+
+   micro avg       0.98      0.97      0.97     34677
+   macro avg       0.96      0.96      0.96     34677
+weighted avg       0.98      0.97      0.97     34677

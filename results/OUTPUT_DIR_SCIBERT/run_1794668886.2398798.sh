@@ -1,0 +1,1 @@
+python run_ner.py --data_dir ./data/bio --bert_model allenai/scibert_scivocab_cased --output_dir /content/drive/MyDrive/patent-citation-extraction/OUTPUT_DIR_SCIBERT --do_leave_one_out --max_seq_length 64 --train_batch_size 32 --eval_batch_size 8 --learning_rate 5e-5 --num_train_epochs 3 --warmup_proportion 0.1 --gradient_accumulation_steps 1
